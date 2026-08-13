@@ -10,7 +10,7 @@ The school canteen has a slow lunch process which causes delays for students bec
 1. Students take too long to decide what food to order, which slows down the line.
 2. The cashier manually calculates the total and gives change, making payment slower and at a risk of inaccuracy.
 3. There is no system for monitoring food inventory, so staff may not know when items are running out.
-4. The slow ordering and payment process causes long lines, leading to overcrowding during lunch.
+
 
 **Step 3: Define Computational Thinking Approaches**
 
@@ -19,7 +19,6 @@ The school canteen has a slow lunch process which causes delays for students bec
 | Students take too long to decide what food to order. | Abstraction | Create a simplified menu showing food names, prices, and available items so students can quickly choose. |
 | The cashier manually calculates totals and gives change. | Algorithm Design | Create a step-by-step system that adds item prices, calculates the total, receives payment, and calculates the change automatically. |
 | There is no system for monitoring food inventory. | Pattern Recognition | Track which food items sell most frequently to identify patterns in demand and predict which items may run out. |
-| The slow ordering and payment process causes long lines and overcrowding. | Decomposition | Divide the process into smaller stages such as choosing food, ordering, paying, and receiving the food, then improve each stage separately. |
 
 **Step 4: Pseudocode**
 
