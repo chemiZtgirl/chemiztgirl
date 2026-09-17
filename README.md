@@ -6,3 +6,5 @@ i am from 9 - balingkilat
 [lab](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q1%20/q1_sg6_balingkilat_barayoga.py)
 [beakers](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q1%20/q1_sg7_balingkilat_barayoga%2Cpy)
 [class](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q1/FA4_Balingkilat_Valera_Barayoga_Bernardo.png)
+[tusoktusok](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q1%20/tusoktusok.py)
+[fa3](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q1/FA4_Balingkilat_Valera_Barayoga_Bernardo.png)
