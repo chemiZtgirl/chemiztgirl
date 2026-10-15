@@ -1,4 +1,4 @@
-## hi i'm elle / chemiztgirl this is my github repository 
+## hi i'm kairi this is my github repository 
 i am from 9 - balingkilat
 
 ## Q1
@@ -10,3 +10,6 @@ i am from 9 - balingkilat
 [class](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q1/FA4_Balingkilat_Valera_Barayoga_Bernardo.png)
 [tusoktusok](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q1%20/tusoktusok.py)
 [fa3](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q1/FA4_Balingkilat_Valera_Barayoga_Bernardo.png)
+
+## Q2
+
