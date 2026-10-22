@@ -13,3 +13,4 @@ i am from 9 - balingkilat
 
 ## Q2
 [fa1](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q2%20/fa1_section_surname.py)
+[fa2](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q2%20/fa2_balingkilat_barayoga.py)
