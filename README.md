@@ -15,3 +15,4 @@ i am from 9 - balingkilat
 [fa1](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q2%20/fa1_section_surname.py)
 [fa2](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q2%20/fa2_balingkilat_barayoga.py)
 [sg11_activity_3](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q2%20/SG11_activity3)
+[activity 4](https://github.com/chemiZtgirl/chemiztgirl/blob/main/q2%20/FA3_Balingkilat_Barayoga.py)
